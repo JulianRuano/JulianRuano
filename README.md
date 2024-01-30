@@ -57,11 +57,12 @@ Se ha desarrollado una API utilizando arquitectura de microservicios, implementa
 
 <h3>My GitHub Stats</h3>
 
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=JulianRuano&show_icons=true&theme=dark&locale=en" alt="JulianRuano" /></p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JulianRuano&show_icons=true&theme=dark&locale=en&layout=compact" alt="JulianRuano" /></p>
 
-<br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=JulianRuano&show_icons=true&theme=dark&locale=en" alt="JulianRuano" /></p>
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
+
 <hr width="50%" >
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -72,5 +73,4 @@ Se ha desarrollado una API utilizando arquitectura de microservicios, implementa
 <a href="mailto:julianrmajin@gmail.com" target="blank"><img align="center" src="https://github.com/JulianRuano/my-portfolio/blob/main/img/icons8-email-96.png?raw=true" alt="21304875" height="50" width="50" />
 </a>
 </p>
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JulianRuano&label=Profile%20views&color=0e75b6&style=flat" alt="JulianRuano" /> </p>
+
