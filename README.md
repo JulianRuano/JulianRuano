@@ -41,24 +41,7 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </a> 
 
-</p><br>
-<hr width="50%" >
-
-<h3>📝  Recent Projects</h3>
-
-[Evaluation Management System ](https://github.com/JulianRuano/EvaluationManagementSystem-Backend)<br>
-[Open Market](https://github.com/JulianRuano/OpenMarket_Argentina_Colombia)<br>
-Se ha desarrollado una API utilizando arquitectura de microservicios, implementada con el lenguaje de programación Java y el framework Spring Boot. Esta API permite a los usuarios realizar transacciones seguras, como comprar, vender y distribuir productos en línea, a través de una aplicación web. Además, la aplicación está contenerizada mediante Docker, lo que facilita su despliegue y gestión de manera eficiente.
-
-<hr width="50%" >
-
-<h3>My GitHub Stats</h3>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=JulianRuano&show_icons=true&theme=dark&locale=en" alt="JulianRuano" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JulianRuano&show_icons=true&theme=dark&locale=en&layout=compact" alt="JulianRuano" /></p>
-
-<br><br><br><br><br><br><br><br>
+<br><br>
 
 <hr width="50%" >
 <h3 align="left">Connect with me:</h3>
