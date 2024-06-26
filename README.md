@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/julianrmajin" target="blank"><img src="https://img.shields.io/twitter/follow/julianrmajin?logo=twitter&style=for-the-badge" alt="JulianRuano" /></a> </p>
 
-🌱 I’m currently learning **Backend Web Development **
+🌱 I’m currently learning **Backend Web Development**
 
 🎓 I am currently studying systems engineering at the University of Cauca. 
 
