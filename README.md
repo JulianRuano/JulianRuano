@@ -4,45 +4,29 @@
 
 <p align="left"> <a href="https://twitter.com/julianrmajin" target="blank"><img src="https://img.shields.io/twitter/follow/julianrmajin?logo=twitter&style=for-the-badge" alt="JulianRuano" /></a> </p>
 
-🌱 I’m currently learning **Backend Web Development**
+Estudiante de último semestre de Ingeniería de Sistemas con experiencia en desarrollo web, especializado en tecnologías como Java, Spring Boot, Angular, JavaScript, Python y PHP. Me enfoco principalmente en el desarrollo backend, con sólidos conocimientos en integración y despliegue de aplicaciones web.
 
-🎓 I am currently studying systems engineering at the University of Cauca. 
+He participado en proyectos aplicando principios de arquitectura de software (MVC, microservicios, hexagonal), buenas prácticas de codificación y metodologías ágiles. Me destaco por mi liderazgo, habilidades de comunicación efectiva, trabajo en equipo y una fuerte pasión por aprender y crecer constantemente en el campo del desarrollo de software.
 
-🔭 I'm currently working on Java, Angular, PHP, MySQL, Node.js
+### 🛠 &nbsp;Technologies
 
-🤝 I’m available for freelancing.
-
-📫 How to reach me julianrmajin@gmail.com
-
-<br>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"
-</a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="react" width="40" height="40"/> 
-</a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-</a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-</a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-</a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-</a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="react" width="40" height="40"/> 
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-</a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-</a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-</a> 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/sql-%234478A8.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![PHP](https://img.shields.io/badge/php-%23777777.svg?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
+![API REST](https://img.shields.io/badge/API%20REST-%2332A3FF.svg?style=for-the-badge&logo=fastapi&logoColor=white)&nbsp;
 
 <hr width="50%" >
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conéctate conmigo::</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/julian-ruano-majin-450818288/" target="blank"><img align="center" src="https://github.com/JulianRuano/my-portfolio/blob/main/img/linkedin-icon.png?raw=true" alt="Julian Ruano" height="50" width="50" />
 </a>
@@ -52,3 +36,11 @@
 </a>
 </p>
 
+### 🚀 Proyectos Destacados
+
+<div align="center"> <table> <tr> <td><strong>🎓 <a href="https://github.com/JulianRuano/Teacher-control-system-Backend" target="_blank">Teacher Control- Backend</a></strong></td> <td> API REST para gestionar la autoevaluación académica docente. Administra materias, usuarios, notificaciones y reportes. Roles: coordinador, decano y docente. </td> </tr> <tr> <td><strong>🌐 <a href="https://github.com/JulianRuano/api-gateway" target="_blank">API Gateway</a></strong></td> <td> Puerta de entrada para microservicios usando Spring Cloud Gateway. Balanceo de carga y servidor NGINX para archivos estáticos con Docker Compose. </td> </tr> <tr> <td><strong>🌍 <a href="https://github.com/Proyecto2ORII2024/P2-Backend-ORII" target="_blank">ORII Backend</a></strong></td> <td> Sistema de gestión para la Oficina de Relaciones Interinstitucionales e Internacionales. Automatiza y facilita el manejo de relaciones entre instituciones. </td> </tr> <tr> <td><strong>🔐 <a href="https://github.com/JulianRuano/keycloak" target="_blank">Keycloak Configuración</a></strong></td> <td> Configuración y despliegue de Keycloak para autenticación centralizada. Repositorio base para personalización de identidad y control de acceso. </td> </tr> </table> </div>
+
+[![Spring Boot](https://img.shields.io/badge/SpringBoot-API-green?logo=spring)](https://github.com/JulianRuano/Teacher-control-system-Backend)
+[![Gateway](https://img.shields.io/badge/API%20Gateway-SpringCloud-blue?logo=spring)](https://github.com/JulianRuano/api-gateway)
+[![ORII](https://img.shields.io/badge/ORII%20System-Backend-blueviolet)](https://github.com/Proyecto2ORII2024/P2-Backend-ORII)
+[![Keycloak](https://img.shields.io/badge/Keycloak-Config-important?logo=keycloak)](https://github.com/JulianRuano/keycloak)
