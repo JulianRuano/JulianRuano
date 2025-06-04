@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://twitter.com/julianrmajin" target="blank"><img src="https://img.shields.io/twitter/follow/julianrmajin?logo=twitter&style=for-the-badge" alt="JulianRuano" /></a> </p>
 
-Estudiante de último semestre de Ingeniería de Sistemas con experiencia en desarrollo web, especializado en tecnologías como Java, Spring Boot, Angular, JavaScript, Python y PHP. Me enfoco principalmente en el desarrollo backend, con sólidos conocimientos en integración y despliegue de aplicaciones web.
+Final semester student of Systems Engineering with experience in web development, specializing in technologies such as Java, Spring Boot, Angular, JavaScript, Python, and PHP. I primarily focus on backend development, with solid knowledge in the integration and deployment of web applications.
 
-He participado en proyectos aplicando principios de arquitectura de software (MVC, microservicios, hexagonal), buenas prácticas de codificación y metodologías ágiles. Me destaco por mi liderazgo, habilidades de comunicación efectiva, trabajo en equipo y una fuerte pasión por aprender y crecer constantemente en el campo del desarrollo de software.
+I have participated in projects applying software architecture principles (MVC, microservices, hexagonal), best coding practices, and agile methodologies. I stand out for my leadership, effective communication skills, teamwork, and a strong passion for continuously learning and growing in the field of software development.
 
 ### 🛠 &nbsp;Technologies
 
@@ -26,19 +26,34 @@ He participado en proyectos aplicando principios de arquitectura de software (MV
 ![API REST](https://img.shields.io/badge/API%20REST-%2332A3FF.svg?style=for-the-badge&logo=fastapi&logoColor=white)&nbsp;
 
 <hr width="50%" >
-<h3 align="left">Conéctate conmigo::</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/julian-ruano-majin-450818288/" target="blank"><img align="center" src="https://github.com/JulianRuano/my-portfolio/blob/main/img/linkedin-icon.png?raw=true" alt="Julian Ruano" height="50" width="50" />
-</a>
-<a href="https://twitter.com/julianrmajin" target="blank"><img align="center" src="https://github.com/JulianRuano/my-portfolio/blob/main/img/twitter-icon.png?raw=true" alt="21304875" height="50" width="50" />
-</a>
-<a href="mailto:julianrmajin@gmail.com" target="blank"><img align="center" src="https://github.com/JulianRuano/my-portfolio/blob/main/img/icons8-email-96.png?raw=true" alt="21304875" height="50" width="50" />
-</a>
+<h3 align="left">Connect with me:</h3>
+<p>
+ <a href="https://www.linkedin.com/in/julian-ruano-majin-450818288/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL" ></a>
+ <a href="mailto:julianrmajin@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-white?logo=gmail" ></a> 
 </p>
 
-### 🚀 Proyectos Destacados
+### 🚀 Featured Projects
 
-<div align="center"> <table> <tr> <td><strong>🎓 <a href="https://github.com/JulianRuano/Teacher-control-system-Backend" target="_blank">Teacher Control- Backend</a></strong></td> <td> API REST para gestionar la autoevaluación académica docente. Administra materias, usuarios, notificaciones y reportes. Roles: coordinador, decano y docente. </td> </tr> <tr> <td><strong>🌐 <a href="https://github.com/JulianRuano/api-gateway" target="_blank">API Gateway</a></strong></td> <td> Puerta de entrada para microservicios usando Spring Cloud Gateway. Balanceo de carga y servidor NGINX para archivos estáticos con Docker Compose. </td> </tr> <tr> <td><strong>🌍 <a href="https://github.com/Proyecto2ORII2024/P2-Backend-ORII" target="_blank">ORII Backend</a></strong></td> <td> Sistema de gestión para la Oficina de Relaciones Interinstitucionales e Internacionales. Automatiza y facilita el manejo de relaciones entre instituciones. </td> </tr> <tr> <td><strong>🔐 <a href="https://github.com/JulianRuano/keycloak" target="_blank">Keycloak Configuración</a></strong></td> <td> Configuración y despliegue de Keycloak para autenticación centralizada. Repositorio base para personalización de identidad y control de acceso. </td> </tr> </table> </div>
+<div align="center">
+  <table>
+    <tr>
+      <td><strong>🎓 <a href="https://github.com/JulianRuano/Teacher-control-system-Backend" target="_blank">Teacher Control - Backend</a></strong></td>
+      <td>REST API for managing academic self-assessment for teachers. Manages subjects, users, notifications, and reports. Roles: coordinator, dean, and teacher.</td>
+    </tr>
+    <tr>
+      <td><strong>🌐 <a href="https://github.com/JulianRuano/api-gateway" target="_blank">API Gateway</a></strong></td>
+      <td>Entry point for microservices using Spring Cloud Gateway. Load balancing and NGINX server for static files with Docker Compose.</td>
+    </tr>
+    <tr>
+      <td><strong>🌍 <a href="https://github.com/Proyecto2ORII2024/P2-Backend-ORII" target="_blank">ORII Backend</a></strong></td>
+      <td>Management system for the Office of Interinstitutional and International Relations. Automates and streamlines the handling of relationships between institutions.</td>
+    </tr>
+    <tr>
+      <td><strong>🔐 <a href="https://github.com/JulianRuano/keycloak" target="_blank">Keycloak Configuration</a></strong></td>
+      <td>Configuration and deployment of Keycloak for centralized authentication. Base repository for identity customization and access control.</td>
+    </tr>
+  </table>
+</div>
 
 [![Spring Boot](https://img.shields.io/badge/SpringBoot-API-green?logo=spring)](https://github.com/JulianRuano/Teacher-control-system-Backend)
 [![Gateway](https://img.shields.io/badge/API%20Gateway-SpringCloud-blue?logo=spring)](https://github.com/JulianRuano/api-gateway)
